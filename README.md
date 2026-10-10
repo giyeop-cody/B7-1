@@ -16,7 +16,7 @@
 | 같은 과제의 다른 레포 | <sub>제출물(미션)</sub> [codyssey-term-mission-B7-1/ai-chatbot-service](https://github.com/codyssey-term-mission-B7-1/ai-chatbot-service) · <sub>개인 fork</sub> [giyeop-cody/ai-chatbot-service](https://github.com/giyeop-cody/ai-chatbot-service) |
 | 같은 과목 다른 과제 | [B7-2](https://github.com/giyeop-cody/codyssey-taskmap/blob/main/B7-2/links.md) |
 
-> 🔒 = 비공개 레포. 상태·pin 커밋은 연결 카드와 `PROGRESS.md` 에 있다. 이 표는 2026-09-27 기준이며 미션 원문 3종은 원본 데이터라 진행 상태를 쓰지 않는다.
+> 🔒 = 비공개 레포. 상태·pin 커밋은 연결 카드와 `PROGRESS.md` 에 있다. 이 표는 2026-10-10 기준이며 미션 원문 3종은 원본 데이터라 진행 상태를 쓰지 않는다.
 <!-- codyssey-links:end -->
 
 ## 📌 과제 정보
